@@ -1,4 +1,5 @@
 # Module 12 Challenge
+## NoSQL
 On behalf of food magazine, *Eat Safe, Love*, data provided by the UK Food Standards Agency was evaluated in order to help their journalists and food critics decide where to focus future articles.</br>
 </br>
 In the **Eat_Safe_Love_analysis** folder you will find one code for setting up and updating our database, and another for analysis.
