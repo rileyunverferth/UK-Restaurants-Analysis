@@ -1,7 +1,7 @@
 # Module 12 Challenge
 On behalf of food magazine, *Eat Safe, Love*, data provided by the UK Food Standards Agency was evaluated in order to help their journalists and food critics decide where to focus future articles.</br>
 </br>
-In the **Eat_Safe_Love_analysis** folder you will find one code for setting up our database, and another for analysis.
+In the **Eat_Safe_Love_analysis** folder you will find one code for setting up and updating our database, and another for analysis.
 
 ## Part 1: Establishing Database and Jupyter Notebook Set Up
 Data from the establishments.json file located in the Resources folder was imported into the terminal.</br>
